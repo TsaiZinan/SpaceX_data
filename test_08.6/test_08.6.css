@@ -1,0 +1,60 @@
+table,tr,th,td
+{
+    /*border-style: solid;*/
+    /*border-width: thin;*/
+}
+table
+{
+    /*border-style: solid;
+    border-width: thin;*/
+}
+div
+{
+   /* border-bottom-style:solid;*/
+    border-radius:15px;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#number
+{
+    font-family: DengXian;
+    font-size: 88px;
+    font-weight: lighter;
+    height: 90px;
+    width: 100px;
+    text-indent: 25px;
+    padding-bottom: 5px;
+}
+#time
+{
+    font-family: DengXian;
+    font-size: 36px;
+    font-weight: lighter;
+    text-indent: 30px;
+    padding-top: 28px;
+}
+#name
+{
+    font-family: DengXian;
+    font-size: 54px;
+    font-weight:normal;
+    height: 72px;
+    width: 1500px;
+    text-indent: 25px;
+}
+#site
+{
+    font-family: DengXian;
+    font-size: 24px;
+    font-weight: lighter;
+    text-indent: 25px;
+    padding-bottom: 30px;
+}
+h1
+{
+    font-family: DengXian;
+    font-size: 100px;
+    font-weight: lighter;
+    text-align: center;
+}
